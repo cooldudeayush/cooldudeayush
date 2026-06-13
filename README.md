@@ -19,7 +19,7 @@
 <!-- ░░░░░░░░░░░░░░░░░░  SOCIAL BADGES  ░░░░░░░░░░░░░░░░░░ -->
 <p>
   <a href="https://www.linkedin.com/in/ayush-ranjan-24142522b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yem0tLjUgMTUuNXYtNS4zYTMuMjYgMy4yNiAwIDAgMC0zLjI2LTMuMjZjLS44NSAwLTEuODQuNTItMi4zMiAxLjN2LTEuMTFoLTIuNzl2OC4zN2gyLjc5di00LjkzYzAtLjc3LjYyLTEuNCAxLjM5LTEuNGExLjQgMS40IDAgMCAxIDEuNCAxLjR2NC45M3pNNi44OCA4LjU2YTEuNjggMS42OCAwIDAgMCAxLjY4LTEuNjhjMC0uOTMtLjc1LTEuNjktMS42OC0xLjY5YTEuNjkgMS42OSAwIDAgMC0xLjY5IDEuNjljMCAuOTMuNzYgMS42OCAxLjY5IDEuNjhtMS4zOSA5Ljk0di04LjM3SDUuNXY4LjM3eiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>
-  <a href="mailto:ayush.ranjan@72street.ai"><img src="https://img.shields.io/badge/Email-7C9CFF?style=for-the-badge&logo=gmail&logoColor=04050D" alt="Email" /></a>
+  <a href="mailto:ayush.13ashu@gmail.com"><img src="https://img.shields.io/badge/Email-7C9CFF?style=for-the-badge&logo=gmail&logoColor=04050D" alt="Email" /></a>
   <a href="https://www.instagram.com/ayushranjan73/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <img src="https://komarev.com/ghpvc/?username=cooldudeayush&style=for-the-badge&color=7C9CFF&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
