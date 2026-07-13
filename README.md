@@ -267,7 +267,7 @@ ayush_ranjan:
 #### `~/snake-eating-my-commits` 🐍
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cooldudeayush/cooldudeayush/output/github-snake-dark.svg?v=2" width="100%" alt="Snake animation eating my contributions" />
+  <img src="https://raw.githubusercontent.com/cooldudeayush/cooldudeayush/output/github-snake.svg?v=3" width="100%" alt="Purple snake eating my green contribution squares" />
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════════════════
