@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" fill="none" role="img" aria-label="Ayush Ranjan — AI and Data Science">
+  <defs>
+    <linearGradient id="txtgrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A78BFA">
+        <animate attributeName="stop-color" values="#A78BFA;#EC4899;#22D3EE;#A78BFA" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.5" stop-color="#EC4899">
+        <animate attributeName="stop-color" values="#EC4899;#22D3EE;#A78BFA;#EC4899" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#22D3EE">
+        <animate attributeName="stop-color" values="#22D3EE;#A78BFA;#EC4899;#22D3EE" dur="9s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <radialGradient id="blob1" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blob2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#EC4899" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#EC4899" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blob3" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="260" rx="18" fill="#0D1117"/>
+
+  <g>
+    <circle cx="220" cy="130" r="165" fill="url(#blob1)">
+      <animate attributeName="cx" values="220;330;190;220" dur="13s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="130;80;175;130" dur="13s" repeatCount="indefinite"/>
+      <animate attributeName="r"  values="165;195;150;165" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="980" cy="130" r="175" fill="url(#blob2)">
+      <animate attributeName="cx" values="980;860;1030;980" dur="15s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="130;185;85;130" dur="15s" repeatCount="indefinite"/>
+      <animate attributeName="r"  values="175;150;205;175" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="210" r="150" fill="url(#blob3)">
+      <animate attributeName="cy" values="210;60;225;210" dur="17s" repeatCount="indefinite"/>
+      <animate attributeName="r"  values="150;185;135;150" dur="14s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g text-anchor="middle" font-family="'Fira Code','JetBrains Mono','Courier New',monospace">
+    <text x="600" y="128" font-size="74" font-weight="700" fill="url(#txtgrad)" filter="url(#glow)">AYUSH RANJAN</text>
+    <text x="600" y="176" font-size="23" font-weight="500" letter-spacing="5" fill="#c9d1d9">AI &amp; DATA SCIENCE &#183; AGENTIC AI &#183; RAG</text>
+    <text x="600" y="220" font-size="15" letter-spacing="2" fill="#8B5CF6">$ ./boot --stack python,llms,agents,data</text>
+  </g>
+</svg>
